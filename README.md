@@ -10,3 +10,6 @@ pwd
 ps -ef
 dnf install nginx -y
 dnf 
+
+comments
+
