@@ -6,4 +6,7 @@ om
 prakash
 
 ls
-
+pwd
+ps -ef
+dnf install nginx -y
+dnf 
