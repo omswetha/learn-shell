@@ -4,3 +4,6 @@ shell scripting topics
 ----------------------
 om
 prakash
+
+ls
+
