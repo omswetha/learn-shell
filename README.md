@@ -15,4 +15,8 @@ comments
 
 happy
 
+thank you stomach
+thank you my nose 
+thank you stomach from relieving the pains & keeping me cool
+
 
